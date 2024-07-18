@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = 'http://localhost/JeepQuest2/';
+$config['base_url'] = 'https://make-something.github.io/JeepQuest/';
 
 /*
 |--------------------------------------------------------------------------
